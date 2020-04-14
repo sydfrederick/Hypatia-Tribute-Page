@@ -1,0 +1,67 @@
+body {
+  background-color: gray;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  text-align: center;
+}
+
+div {
+  margin: auto;
+  background-color: white;
+  border-radius: 20px;
+  padding: 5px;
+  max-width: 970px;
+}
+
+
+
+#title {
+  background-color: gainsboro;
+  text-align: center;
+  font-weight: bold;
+  font-size: 4em;
+  max-width: 970px;
+}
+
+#title-caption {
+  background-color: gainsboro;
+  text-align: center;
+  font-weight: bold;
+  font-size: .5em;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  align-self: center;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+}
+
+#img-div {
+  background-color: white;
+  max-width: 970px;
+  padding: 0px;
+}
+
+figcaption {
+  text-align: center;
+  padding: 5px;
+}
+
+#hypatia-timeline {
+  border: solid;
+  border-color: grey;
+  border-radius: 20px;
+  background-color: gainsboro;
+  text-align: left;
+}
+
+head {
+  background-color: transparent;
+}
+
+#fcc_test_suite_wrapper {
+  background-color: transparent;
+}
